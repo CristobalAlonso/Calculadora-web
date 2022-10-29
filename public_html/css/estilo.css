@@ -1,0 +1,76 @@
+html
+{
+    background-image: url(../recursos/fondo_matematicas.png);
+}
+
+header
+{
+    
+    color: white;
+    background-color: rgba(0,0,0,0.8);
+    width: 60%;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 3%;
+    border-radius: 30px;
+    backdrop-filter: blur(5px);
+    border: 2px solid gray;
+}
+
+section
+{
+    
+    color: white;
+    background-color: rgba(0,0,0,0.8);
+    width: 35%;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 3%;
+    border-radius: 30px;
+    backdrop-filter: blur(5px);
+    border: 2px solid gray;
+}
+
+table
+{
+    margin: auto;
+    text-align: center;
+}
+
+input
+{
+    font-size: 30px;    
+}
+
+button
+{
+    width: 50px;
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+    margin: 10px;
+    font-size: 30px;
+}
+
+.clearBtn
+{
+    width: auto;
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+    margin: 10px;
+    font-size: 30px; 
+}
+
+#backResult
+{
+    background-color: black;
+    width: auto;
+    padding: 15px;
+    border-radius: 30px;
+    border: 2px solid white;
+}
